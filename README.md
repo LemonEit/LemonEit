@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">👋 你好，我是 LemonEit</h1>
 
-<!--
-**LemonEit/LemonEit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 关于我
+
+一名正在迈向 **全栈开发** 的进阶者，目前深耕 Java 后端，同时系统学习前端技术，目标是能够独立构建完整的 Web 应用。
+
+- 🎯 **当前目标**：打通前后端，掌握从数据库到用户界面的完整链路
+- 🌱 **后端技术栈**：Java · Spring Framework · MyBatis · MySQL
+- 🌱 **前端学习路线**：HTML / CSS / JavaScript → Vue.js / React → 前后端联调
+- 🛒 **近期项目**：基于 Spring 的京东商城 Web 应用、基于 MyBatis 的商城控制台应用
+- 🏗️ **设计理念**：注重分层架构，理解业务逻辑与数据交互的分离，追求代码整洁可维护
+- 📖 **学习方式**：项目驱动，边做边学，持续在 GitHub 记录成长轨迹
+
+---
+
+### 🗺️ 全栈学习路线图
