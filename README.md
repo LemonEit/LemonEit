@@ -28,3 +28,29 @@
 ---
 
 ### 🗺️ 全栈学习路线图
+[ 前端 ] [ 后端 ] [ 数据库 ]
+HTML/CSS/JS → Java/Spring → MySQL 基础
+↓ ↓ ↓
+Vue.js/React → MyBatis/JPA → 数据库设计
+↓ ↓ ↓
+前后端联调 ← RESTful API ← 性能优化
+↓
+部署上线（Docker / Linux）
+
+---
+
+### 📈 GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LemonEit&show_icons=true&theme=radical" alt="GitHub 统计" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonEit&layout=compact&theme=radical" alt="常用语言" height="180" />
+</p>
+
+---
+
+### 📫 联系我
+
+- GitHub: [LemonEit](https://github.com/LemonEit)
+- 博客/个人网站：（建设中……）
+
+> 💪 全栈之路，道阻且长，行则将至。欢迎交流指教！
