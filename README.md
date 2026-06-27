@@ -51,6 +51,6 @@ Vue.js/React → MyBatis/JPA → 数据库设计
 ### 📫 联系我
 
 - GitHub: [LemonEit](https://github.com/LemonEit)
-- 博客/个人网站：（建设中……）
+- 博客/个人网站：https://lemoneit.github.io/（建设中……）
 
 > 💪 全栈之路，道阻且长，行则将至。欢迎交流指教！
